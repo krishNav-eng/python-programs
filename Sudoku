@@ -1,0 +1,8 @@
+class SudukoPuzzleMaker:
+  def __init__(self):
+    self.dim = 9
+    self.board = [[0 for _ in range(self.dim)] for _ in range(self.dim)]
+    
+  def make_board():
+    pass
+# UPDATING SOON!
