@@ -1,6 +1,5 @@
 import numpy as np
 import random as rd
-import sys
 
 class latin_square:
     def grid(self):
