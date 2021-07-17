@@ -1,6 +1,4 @@
 import random as rd
-import numpy as np
-import pygame as pg
 from time import time_ns
 
 class SudukoPuzzleMaker:
