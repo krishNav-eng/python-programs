@@ -1,6 +1,6 @@
 # python-programs
 
-Wide range of implementation of different jobs is available in this repository.
+Wide range of implementation of different tasks is available in this repository.
 
 # 1. Suduko Puzzle Maker
 
